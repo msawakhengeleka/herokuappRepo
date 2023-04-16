@@ -1,0 +1,5 @@
+pages\ClickingPage.class
+tests\AlertsTestSuit.class
+tests\ClickingTests.class
+tests\PromptTests.class
+tests\DismissingTests.class
